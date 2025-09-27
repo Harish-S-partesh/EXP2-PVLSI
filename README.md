@@ -1,4 +1,4 @@
-# 4Bit-Up-Down-Asynchronous-Reset-Counter-Synthesis
+<img width="1919" height="1079" alt="Screenshot 2025-09-27 212400" src="https://github.com/user-attachments/assets/a1a468c8-8b1e-450e-a021-0c1e51b6bed5" /># 4Bit-Up-Down-Asynchronous-Reset-Counter-Synthesis
 # Parthesh 212223060192
 
 ## Aim:
@@ -66,7 +66,8 @@ used.
 
 #### Synthesis RTL Schematic :
 
-![Uploading Screenshot 2025-09-27 212400.png…]()
+<img width="1919" height="1079" alt="Screenshot 2025-09-27 212400" src="https://github.com/user-attachments/assets/12f471a2-e167-4297-9a1f-81e0c95b494f" />
+
 
 
 
