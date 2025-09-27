@@ -1,4 +1,4 @@
-<img width="1919" height="1079" alt="Screenshot 2025-09-27 212400" src="https://github.com/user-attachments/assets/a1a468c8-8b1e-450e-a021-0c1e51b6bed5" /># 4Bit-Up-Down-Asynchronous-Reset-Counter-Synthesis
+
 # Parthesh 212223060192
 
 ## Aim:
@@ -65,26 +65,28 @@ used.
 • Genus Script file with .tcl file Extension commands are executed one by one to synthesize the netlist.
 
 #### Synthesis RTL Schematic :
+<img width="1919" height="1079" alt="Screenshot 2025-09-27 212417 - Copy (3)" src="https://github.com/user-attachments/assets/64e7897d-ae11-4534-9acf-89c98bf11937" />
 
-<img width="1919" height="1079" alt="Screenshot 2025-09-27 212400" src="https://github.com/user-attachments/assets/12f471a2-e167-4297-9a1f-81e0c95b494f" />
 
 
 
 
 #### Area report:
 
-<img width="1920" height="1080" alt="Screenshot 2025-09-27 093140" src="https://github.com/user-attachments/assets/decf7e77-0a7d-4d85-8eb7-93a1f81274d1" />
+<img width="1919" height="1079" alt="Screenshot 2025-09-27 210640" src="https://github.com/user-attachments/assets/65ffba5a-ed2c-4b30-bba8-e1aa510ed0e5" />
+
 
 
 #### Power Report:
 
-<img width="1920" height="1080" alt="Screenshot 2025-09-27 093154" src="https://github.com/user-attachments/assets/c9083de2-045c-4577-96f4-ca594df0b4d7" />
+<img width="1919" height="1079" alt="Screenshot 2025-09-27 210743" src="https://github.com/user-attachments/assets/1f2b6dbc-9664-4b7b-846e-a4662a8f9829" />
+
 
 
 
 #### Timing Report: 
 
-<img width="1920" height="1080" alt="Screenshot 2025-09-27 093355" src="https://github.com/user-attachments/assets/ea45ba12-c825-40f4-870b-e8ee01a93ca3" />
+<img width="1919" height="1079" alt="Screenshot 2025-09-27 210817" src="https://github.com/user-attachments/assets/a909102c-3864-48d7-918a-b6f956872101" />
 
 
 #### Result: 
