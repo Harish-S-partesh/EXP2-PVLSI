@@ -66,7 +66,7 @@ used.
 
 #### Synthesis RTL Schematic :
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c1ae2f45-236c-4e57-a63d-d2b4aa4b6397" />
+![Uploading Screenshot 2025-09-27 212400.png…]()
 
 
 
